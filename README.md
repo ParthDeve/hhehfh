@@ -43,6 +43,8 @@
 
 ---
 
+
+````md
 # 🎯 Current Focus
 
 ```yaml
@@ -69,16 +71,27 @@ Open_To:
   - Collaborations
 
 
----
-
-## 7. Add LeetCode
-
-### Add AFTER Current Focus
 
 ```md
 ---
 
-# 💻 Coding Profile
+# 🧩 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/parthchittalwar/)
+```
 
+Remove every occurrence of:
+
+```md
+id="..."
+```
+
+and
+
+```md
+```md
+```
+
+Those appeared because you copied from the chat formatting instead of plain Markdown.
+
+The correct closing for a code block is always just:
