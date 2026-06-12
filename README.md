@@ -4,7 +4,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,linux,docker,postman,blender&perline=9" />
 </p>
 
-[![Portfolio](---
+---
 
 # 🛣️ Learning Roadmap
 
@@ -16,7 +16,7 @@
 ![AWS](https://img.shields.io/badge/AWS-Planned-232F3E?style=flat-square&logo=amazonaws)
 ![System%20Design](https://img.shields.io/badge/System%20Design-Exploring-3949AB?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker))]
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker)
 
 ---
 
